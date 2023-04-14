@@ -1,0 +1,13 @@
+{
+    "addres": "Rua dos bobos",
+    "cpf": "258.143.640-92" ,
+    "value": 900.00,
+    "paymentType" : "CREDIT_CARD",
+    "creditCardPaymentInfo" :{
+        "cardHolderName": "Severino Luiz A", 
+        "cardNumber": "2222222222", 
+        "expirationDate": "04/01/2029", 
+        "cvv":"234",
+        "installments": 6
+    }
+}

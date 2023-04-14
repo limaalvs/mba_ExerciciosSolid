@@ -1,0 +1,9 @@
+{
+    "addres": "Rua José Bernadino de Carvalho",
+    "cpf": "419.924.735-10" ,
+    "value": 400.00,
+    "paymentType" : "BOLETO",
+    "cashPaymentInfo" : {
+        "barCode": "100000010000011000002"
+    }
+}
